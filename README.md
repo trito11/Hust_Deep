@@ -17,7 +17,7 @@ Nhóm sử dụng các mô hình Unet để phân đoạn ảnh trên tập Pots
 3. [Requirement](#Dependencies)
 4. [Installation](#INSTALLATION)
 5. [Quick use](#QUICK-USE)
-6. [Data visualization and preprocessing data](#DATA-VISUALIZATION-AND-ENCODING-DATA)
+6. [Data ](#DATA)
 ## Requirement
 **Programming language**: Python version 3.8 or greater  
 **Library**: scikit-learn, tensorflow, keras, matplotlib, pandas, numpy, seaborn, joblib 
