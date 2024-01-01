@@ -42,12 +42,11 @@ Run each algorithm respectively in these files below:
 
 [Banet](https://github.com/trito11/Hust_Deep/blob/main/banet1.ipynb)
 
-[Manet](https://github.com/trito11/Hust_Deep/blob/main/manet-deep.ipynb))
+[Manet](https://github.com/trito11/Hust_Deep/blob/main/manet-deep.ipynb)
 
-[UnetFormer](https://github.com/trito11/Hust_Deep/blob/main/unet-former.ipynb))
+[UnetFormer](https://github.com/trito11/Hust_Deep/blob/main/unet-former.ipynb)
 
 [Unetplusplu](https://github.com/trito11/Hust_Deep/blob/main/unetplusplus.ipynb)
-
 [Upernet](https://github.com/trito11/Hust_Deep/blob/main/upernet.ipynb)
 [CycGan](https://github.com/trito11/Hust_Deep/blob/main/ccgan-unet.ipynb)
 
