@@ -1,9 +1,5 @@
 # Hust_Deep
 #**Unsupervised Domain Adaptation Using Generative Adversarial Networks for Semantic Segmentation of Aerial Images**
-
-Nhóm sử dụng các mô hình Unet để phân đoạn ảnh trên tập Potsdam rồi sử dụng CyCGan để chuyển các ảnh của tập dữ liệu Potsdam thành định dạng giống với tập ảnh Vaihingen. Sau đó dùng các ảnh đã được truyển đổi để fine-tuning các mạng Unet đã được train trước đó rồi tguwr nghiệm chúng với kết quả trên tập Vaihingen
-# ML_HUST_PROJECT
-
 ## Introduction
 This repo contains our project in *Deep learning* subject at Hanoi University of Science and Technology  
 
@@ -42,18 +38,18 @@ pip install joblib
 cd code
 ```
 Run each algorithm respectively in these files below:
+[Unet](https://github.com/trito11/Hust_Deep/blob/main/unet-deep.ipynb)
 
-[K-Nearest Neighbor](https://github.com/Tahuubinh/ML_HUST_PROJECT/blob/main/code/K_means.ipynb)
+[Banet](https://github.com/trito11/Hust_Deep/blob/main/banet1.ipynb)
 
-[Gaussian Naive Bayes](https://github.com/Tahuubinh/ML_HUST_PROJECT/blob/main/code/Naive_Bayes.ipynb)
+[Manet](https://github.com/trito11/Hust_Deep/blob/main/manet-deep.ipynb))
 
-[Random Forest](https://github.com/Tahuubinh/ML_HUST_PROJECT/blob/main/code/random_forest.ipynb)
+[UnetFormer](https://github.com/trito11/Hust_Deep/blob/main/unet-former.ipynb))
 
-[Artificial Neural Network](https://github.com/Tahuubinh/ML_HUST_PROJECT/blob/main/code/ANN.ipynb)
+[Unetplusplu](https://github.com/trito11/Hust_Deep/blob/main/unetplusplus.ipynb)
 
-[K-means Clustering](https://github.com/Tahuubinh/ML_HUST_PROJECT/blob/main/code/K_means.ipynb)
+[Upernet](https://github.com/trito11/Hust_Deep/blob/main/upernet.ipynb)
+[CycGan](https://github.com/trito11/Hust_Deep/blob/main/ccgan-unet.ipynb)
 
-## Data visualization and preprocessing data
-To visualize data, please run file [Data_Visualization](https://github.com/Tahuubinh/ML_HUST_PROJECT/blob/main/code/Data_visualization.ipynb)
-
-To preprocess data, please run file [encode](https://github.com/Tahuubinh/ML_HUST_PROJECT/blob/main/code/Preprocessing.ipynb)
+## Data 
+[Data](https://www.kaggle.com/datasets/trito12/deep-data-potsdam-vaihingen)
